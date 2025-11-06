@@ -78,7 +78,7 @@ Python libraries:
 pip install graphviz
 
 ▶️ Run the program
-python logical_formula_tree.py
+python WFF.py
 
 
 It will test a set of predefined formulas and generate PNG images for all well-formed ones.
