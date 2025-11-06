@@ -25,15 +25,16 @@ The goal is to **model and visualize the calculation process of well-formed form
 
 
 **Output (tree image):**
-*
-    &
-   / \
-  |   |
- / \ / \
-A  B ~  D
-    |
-    C
-*
+
+```
+        &
+       / \
+      |   |
+     / \ / \
+    A  B ~  D
+        |
+        C
+```
 
 🖼️ The program produces an image file such as:  
 `Aor_Band_not_Cor_D.png`
