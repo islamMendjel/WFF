@@ -25,6 +25,7 @@ The goal is to **model and visualize the calculation process of well-formed form
 
 
 **Output (tree image):**
+*
     &
    / \
   |   |
@@ -32,7 +33,7 @@ The goal is to **model and visualize the calculation process of well-formed form
 A  B ~  D
     |
     C
-
+*
 
 🖼️ The program produces an image file such as:  
 `Aor_Band_not_Cor_D.png`
