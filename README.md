@@ -1,4 +1,4 @@
-# 🧠 WFF = Well Formed Formula
+# 🧠 WFF: Well Formed Formula
 
 ### 📘 Description
 
